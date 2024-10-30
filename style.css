@@ -1,3 +1,7 @@
+body {
+    background-color: #FFFDD0;
+}
+
 .site-head {
     display: flex;
     margin: auto;
