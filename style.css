@@ -1,5 +1,6 @@
 body {
     background-color: #FFFDD0;
+    font-family: "Viking", "Trajan Pro", "Sylfaen", sans-serif;
 }
 
 .site-head {
@@ -14,10 +15,6 @@ body {
 .site-logo {
     width: 150px;
     height: auto;
-}
-
-.text {
-    font-family: "Viking", "Trajan Pro", "Sylfaen", sans-serif;
 }
 
 .site-name {
