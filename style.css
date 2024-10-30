@@ -12,7 +12,10 @@
     height: auto;
 }
 
-.site-name {
+.text {
     font-family: "Viking", "Trajan Pro", "Sylfaen", sans-serif;
+}
+
+.site-name {
     font-weight: 700;
 }
