@@ -1,4 +1,9 @@
-#logo {
+.site-head {
+    margin: auto;
+    width: 50%;
+}
+
+.site-logo {
     width: 150px;
     height: auto;
 }
