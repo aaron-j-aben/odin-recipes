@@ -1,6 +1,9 @@
 .site-head {
+    display: flex;
     margin: auto;
     width: 50%;
+    justify-content: center;
+    align-content: center;
 }
 
 .site-logo {
