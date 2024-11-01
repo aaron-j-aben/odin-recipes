@@ -24,3 +24,13 @@ body {
 .section-header{
     color: #3B2A2A;
 }
+
+.recipe-container {
+    display: flex;
+    justify-content: center;
+}
+
+.recipe-entry {
+    padding: 3%;
+    margin: 0 auto;
+}
