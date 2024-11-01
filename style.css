@@ -33,6 +33,7 @@ body {
 .recipe-container {
     display: flex;
     justify-content: center;
+    margin-top: 4%;
 }
 
 .recipe-entry {
@@ -55,4 +56,8 @@ body {
     color: saddlebrown;
     text-decoration: none;
     font-size: xx-large;
+}
+
+.recipe-entry:hover {
+    transform: scale(1.2);
 }
