@@ -36,8 +36,9 @@ body {
 }
 
 .recipe-entry {
-    padding: 3%;
+    padding: 1%;
     margin: 0 auto;
+    background-color: #d5f0c0;
 }
 
 .recipe-image {
