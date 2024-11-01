@@ -32,7 +32,7 @@ body {
 
 .recipe-container {
     display: flex;
-    width: 90%;
+    width: 75%;
     margin: 4% auto;
     justify-content: center;
 }
