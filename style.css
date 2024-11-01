@@ -21,6 +21,11 @@ body {
     font-weight: 700;
 }
 
+.site-content {
+    padding: 0% 10%;
+    margin: 2%;
+}
+
 .section-header{
     color: #3B2A2A;
 }
